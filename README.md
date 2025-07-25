@@ -103,39 +103,37 @@ Developed reusable components:
 
 Used `react-chartjs-2` to render charts dynamically from API data.
 
-## 🖼️ UI Component Structure
-
-Here are the visual components of the application:
-
-### 🔼 Upload CSV
-
-![Upload CSV](screenshots/upload.png)
-
-### 📈 Summary Section
-
-![Summary](screenshots/summary.png)
-
-### 📊 Revenue Over Time Chart
-
-![Revenue Over Time](screenshots/revenue_over_time.png)
-
-### 🧑‍💼 Revenue by Salesperson
-
-![Revenue by Salesperson](screenshots/revenue_by_salesperson.png)
-
-### 🌍 Revenue by Region and Product
-
-![Revenue by Region and Product](screenshots/revenue_by_region_product.png)
-
-### 🧾 Average Price by Product
-
-![Average Price by Product](screenshots/avg_price_by_product.png)
-
-### 📦 Units by Product
-
-![Units by Product](screenshots/units_by_product.png)
 
 ---
+
+## 🖼️ UI Component Structure
+
+Below are the screenshots of the key components in the UI:
+
+### 📁 Folder Structure
+![Folder Structure](./screenshots/Folder_Structure.jpeg)
+
+### 📤 CSV Upload Functionality
+![CSV Upload](./screenshots/Csv_upload.jpeg)
+
+### 📊 Data Summary Display
+![Data Summary](./screenshots/Data_summary.jpeg)
+
+### 📈 Average Price by Product Chart
+![Avg Price by Product](./screenshots/AvgPriceProductChart.jpeg)
+
+### 📉 Units Sold by Product Chart
+![Units by Product](./screenshots/UnitsPriceProductChart.jpeg)
+
+### 🌍 Revenue by Region and Product Chart
+![Revenue by Region and Product](./screenshots/RevenueREgionProductChart.jpeg)
+
+### ⏱️ Revenue Over Time Chart
+![Revenue Over Time](./screenshots/RevenueOverTimeChart.jpeg)
+
+---
+
+
 
 ## 🎓 Learning Outcome
 
